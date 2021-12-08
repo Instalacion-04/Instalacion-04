@@ -20,6 +20,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
             alt="dotnet" width="40" height="40" /> </a>
 </p>
-
+[![Azure](https://img.shields.io/badge/Azure-999999?style=for-the-badge&logo=azure&logoColor=white&labelColor=101010)]()
 
 

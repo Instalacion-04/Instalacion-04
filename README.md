@@ -20,6 +20,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
             alt="dotnet" width="40" height="40" /> </a>
 </p>
-[![Azure](https://img.shields.io/badge/Azure-999999?style=for-the-badge&logo=azure&logoColor=white&labelColor=101010)]()
-
-
+[![Azure](https://img.shields.io/badge/Azure-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
+[![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
+[![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
